@@ -17,6 +17,6 @@ Restart the Terminal
 
 ### Generate the pdf file.
 ```
-$pdflatex achuthResume.tex -o achuthResume.pdf
+$pdflatex achuthResume.tex -o Achuthananda_10Years.pdf
 ```
 
